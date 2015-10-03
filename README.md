@@ -3,4 +3,4 @@
 * std::stringstream ss
 * ss<<1.9   is work
 
-	$. g++ stringstream01.cpp -o stringstream01
+		$. g++ stringstream01.cpp -o stringstream01
